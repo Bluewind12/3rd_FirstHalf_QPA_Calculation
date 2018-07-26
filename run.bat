@@ -1,0 +1,2 @@
+javac MainCalculation.java
+java MainCalculation
